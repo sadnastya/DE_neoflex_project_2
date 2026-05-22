@@ -88,8 +88,6 @@ start → truncate_currency → load_currency → update_rd → update_dm → en
 
 ---
 
----
-
 ## Видеокомментарии к заданиям
 
 [Смотреть на Google Drive](https://drive.google.com/drive/folders/1glNt1bb_xEqrfdMuU8Leq6GKSG40cMpM?usp=sharing)
