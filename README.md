@@ -1,4 +1,4 @@
-# DE_neoflex_project_2
+# Расчёт витрин и обработка данных с помощью SQL
 
 Учебный проект в рамках курса **Data Engineering** от Neoflex.  
 Стек: **PostgreSQL / PL/pgSQL**, **Apache Airflow**, **Python (pandas)**.
